@@ -20,6 +20,6 @@ To achieve this, we will train a neural network, utilizing Levenberg-Marquardt m
 
 ## Results
 <div align="center">
-  <img width="500" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/c03971c1-9e6c-414f-985c-36d5919b6946">
-  <img width="500" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/c0e19064-5384-4659-99b7-f38a013da24d">
+  <img width="400" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/c03971c1-9e6c-414f-985c-36d5919b6946">
+  <img width="400" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/c0e19064-5384-4659-99b7-f38a013da24d">
 </div>
