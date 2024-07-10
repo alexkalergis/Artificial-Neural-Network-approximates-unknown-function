@@ -9,7 +9,7 @@ To achieve this, we will train a neural network, utilizing Levenberg-Marquardt m
 
 ## Neural Network Architecture
 <div align="center">
-  <img width="1000" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/8b9770e5-157a-4d88-b1fd-50ec24f23472" title="First Error">
+  <img width="800" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/8b9770e5-157a-4d88-b1fd-50ec24f23472" title="First Error">
 </div>
 
 ## Neural Network Errors
