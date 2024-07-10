@@ -14,8 +14,8 @@ To achieve this, we will train a neural network, utilizing Levenberg-Marquardt m
 
 ## Neural Network Errors
 <div align="center">
-  <img width="450" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/bc5d2a50-f8d4-47e3-ac7f-ba8618c376c8" title="First Error">
-  <img width="450" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/e453cb0e-8ba3-448d-8ee1-8ec9f02ce659" title="Second Error">
+  <img width="480" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/bc5d2a50-f8d4-47e3-ac7f-ba8618c376c8" title="First Error">
+  <img width="480" alt="11" src="https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/e453cb0e-8ba3-448d-8ee1-8ec9f02ce659" title="Second Error">
 </div>
 
 ## Results
