@@ -1,7 +1,3 @@
-# Artificial-Neural-Network-approximates-unknown-function
-
----
-
 ## Project Overview
 
 The aim of this project is to approximate the function of a discrete dynamical system given by:
@@ -43,17 +39,14 @@ To run the project, follow these steps:
 5. Evaluate and fine-tune the model as needed.
 6. Save the trained model for future use.
 
----
-
 ## Neural Network Architecture
+Utilized Levenberg-Marquardt method for backpropagation
 ![image](https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/8b9770e5-157a-4d88-b1fd-50ec24f23472)
 
----
 
 ## Neural Network Error
 ![image](https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/bc5d2a50-f8d4-47e3-ac7f-ba8618c376c8)
 
----
 
 ## Result
 ![image](https://github.com/alexkalergis/Artificial-Neural-Network-approximates-unknown-function/assets/105602973/c03971c1-9e6c-414f-985c-36d5919b6946)
