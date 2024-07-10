@@ -4,7 +4,7 @@
 
 The aim of this project is to approximate the function of a discrete dynamical system given by:
 
-\[ x_{k+1} = f(x_k), \, x_0 \in [-2, 0, 1] \]
+$$ x_{k+1} = f(x_k), \, x_0 \in [-2, 0, 1] $$
 
 To achieve this, we will train a neural network using the data provided in the `data_NN.mat` file, which describes the behavior of the function.
 
